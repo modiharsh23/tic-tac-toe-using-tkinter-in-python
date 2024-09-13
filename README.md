@@ -9,3 +9,5 @@ This is a simple Tic-Tac-Toe game developed using the <code>Tkinter</code> libra
 <li>Restart game option</li>
 </ul>
 
+<h2>GUI</h2>
+<img src='https://github.com/modiharsh23/tic-tac-toe-using-tkinter-in-python/blob/main/GUI.png?raw=true'>
