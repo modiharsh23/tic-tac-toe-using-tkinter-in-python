@@ -11,3 +11,4 @@ This is a simple Tic-Tac-Toe game developed using the <code>Tkinter</code> libra
 
 <h2>GUI</h2>
 <img src='https://github.com/modiharsh23/tic-tac-toe-using-tkinter-in-python/blob/main/GUI.png?raw=true'>
+<img src='https://github.com/modiharsh23/tic-tac-toe-using-tkinter-in-python/blob/main/Tie.png'>
